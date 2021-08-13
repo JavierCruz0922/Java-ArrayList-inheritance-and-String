@@ -1,0 +1,50 @@
+expected data
+
+1&Particular&4&180&FFE 000&Rojo
+
+1&Particular&2&240&GOK 223&Azul
+
+1&Particular&8&160&EEE 111&Verde
+
+1&Comercial&2&150&FFF 222&250
+
+2
+
+3
+
+
+expected output
+
+***Inventario de vehículos***
+
+       Vehículo Particular - Placa: FFE 000
+
+       velocidad: 180 km/h
+
+       pasajeros: 4
+
+       color: Rojo
+
+       Vehículo Particular - Placa: GOK 223
+
+       velocidad: 240 km/h
+
+       pasajeros: 2
+
+       color: Azul
+
+       Vehículo Particular - Placa: EEE 111
+
+       velocidad: 160 km/h
+
+       pasajeros: 8
+
+       color: Verde
+
+       Vehículo Comercial - Placa: FFF 222
+
+       velocidad: 150 km/h
+
+       pasajeros: 2
+
+       Carga máxima: 250kg
